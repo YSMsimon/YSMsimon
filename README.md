@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+📫 **Feel free to email me:** [simonyang6869@gmail..com](mailto:simonyang6869@gmail.com)
 <!--
 **YSMsimon/YSMsimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

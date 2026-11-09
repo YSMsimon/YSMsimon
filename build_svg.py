@@ -108,7 +108,7 @@ def uptime(start):
         y -= 1
         m += 12
     pl = lambda n, w: f"{n} {w}{'' if n == 1 else 's'}"
-    return f"{pl(y, 'year')}, {pl(m, 'month')}, {pl(d, 'day')} on GitHub"
+    return f"{pl(y, 'year')}, {pl(m, 'month')}, {pl(d, 'day')}"
 
 
 def panel(n):

@@ -31,7 +31,7 @@ def daily_readme(birthday):
         diff.years, 'year' + format_plural(diff.years), 
         diff.months, 'month' + format_plural(diff.months), 
         diff.days, 'day' + format_plural(diff.days),
-        '') + ' on GitHub'
+        '')
 
 
 def format_plural(unit):

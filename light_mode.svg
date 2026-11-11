@@ -36,7 +36,7 @@
 <text x="420" y="50" fill="#24292f">
 <tspan x="420" y="50">simon@yang -———————————————————————————————————————————-</tspan>
 <tspan x="420" y="70"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">macOS, iOS, Linux</tspan></tspan>
-<tspan x="420" y="90"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ................... </tspan><tspan class="value" id="age_data">3 years, 7 months, 26 days</tspan></tspan>
+<tspan x="420" y="90"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ................... </tspan><tspan class="value" id="age_data">3 years, 7 months, 27 days</tspan></tspan>
 <tspan x="420" y="110"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">University of Toronto</tspan></tspan>
 <tspan x="420" y="130"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">BSc Computer Science</tspan></tspan>
 <tspan x="420" y="150"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">VS Code, Cursor, Xcode</tspan></tspan>

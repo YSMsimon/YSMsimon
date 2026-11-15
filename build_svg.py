@@ -27,10 +27,8 @@ ABOUT = [
     ("IDE", "VS Code, Cursor, Xcode"),
     "dot",
     ("Languages.Code", "Python, TypeScript, Solidity, Swift"),
-    ("Languages.Real", "English, Mandarin"),
     "dot",
     ("Research", "LLM agent safety"),
-    ("Projects", "Warden, Speak and Edit, Deep-Copilot"),
     ("Interests", "SWE, AI agents, agent evals, DeFi"),
 ]
 CONTACT = [

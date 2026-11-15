@@ -139,7 +139,10 @@ def render(theme, n):
     with open(os.path.join(HERE, t["ascii"])) as f:
         art = f.read().rstrip("\n").split("\n")
     rows = panel(n)
-    top = 30 + LINE_H * ((25 - len(rows)) // 2)   # centre the panel against the 25-line portrait
+    # Centre the panel on the drawn part of the portrait; blank lines above or below don't count.
+    drawn = [i for i, line in enumerate(art[:25]) if line.strip()]
+    middle = 30 + LINE_H * (drawn[0] + drawn[-1]) / 2
+    top = round(middle - LINE_H * (len(rows) - 1) / 2)
     out = [
         "<?xml version='1.0' encoding='UTF-8'?>",
         f'<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" '
